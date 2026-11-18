@@ -1,0 +1,7 @@
+linkage,metric,silhouette
+single,euclidean,0.2758004412314313
+single,manhattan,0.2758004412314313
+complete,euclidean,0.5531118656926701
+complete,manhattan,0.5391762674745034
+average,euclidean,0.4794263081846086
+average,manhattan,0.5510982517027394
